@@ -2,8 +2,8 @@
 
 const employee = {
     Sam: "11 Broadway",
-  };
-  
+};
+
 function updateEmployeeWithKeyAndValue() {
     const employee = {
         ...employee,
